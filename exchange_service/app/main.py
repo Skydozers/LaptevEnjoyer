@@ -6,6 +6,8 @@ from fastapi import FastAPI, HTTPException
 from fastapi import status
 from pydantic import BaseModel
 
+
+
 app = FastAPI()
 
 exchange_rates = {
