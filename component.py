@@ -8,7 +8,6 @@ add_client_url = f'{bank_url}/add_client'
 update_client_currency_url = f'{bank_url}/update_client_currency'
 update_client_balance_url = f'{bank_url}/update_client_balance'
 delete_client_url = f'{bank_url}/delete_client'
-
 exchange_url = 'http://localhost:8001'
 convert_currency_id_url = f'{exchange_url}/get_movie_by_id'
 
