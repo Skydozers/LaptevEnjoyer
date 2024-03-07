@@ -7,7 +7,6 @@ from sqlalchemy.orm import Session
 
 from database import database as database
 from database.database import ClientDB
-
 from model.client import Client
 
 app = FastAPI()
